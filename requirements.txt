@@ -1,0 +1,8 @@
+python-dotenv
+ollama
+chromadb
+pandas
+streamlit
+langchain
+langchain-community
+langchain-ollama
